@@ -4,4 +4,3 @@
             echo 'This is the pages controller';
         }
     }
-?>
